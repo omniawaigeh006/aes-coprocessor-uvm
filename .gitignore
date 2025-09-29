@@ -1,0 +1,5 @@
+# Ignore compiled/simulation outputs
+*.log
+*.qpg
+*.wlf
+/sim/work/
