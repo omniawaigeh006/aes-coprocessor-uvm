@@ -1,0 +1,7 @@
+Thu Jun 20 18:59:04 +0300 2024
+Trace back: invalid command name "mti_bp"
+    while executing
+".vcop Eval {namespace inscope ::vsimwidgets::Srcobj {::.main_pane.source.interior.cs.body.srcobj RunUntilHere 29}}"
+    (menu invoke)
+  <2:C:/questasim64_2021.1/win64/tk8.6/bgerror.tcl:106: ::tkerror {invalid command name "mti_bp"}
+  <1:eval:1: ::tk::dialog::error::bgerror {invalid command name "mti_bp"}
